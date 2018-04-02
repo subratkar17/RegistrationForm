@@ -1,0 +1,74 @@
+.todo{
+    float: left;
+}
+.firstname{
+    width: 30%;
+}
+.Login{
+    margin: 10% 26% 10% 25%;
+}
+
+#firstname{
+    width: 409px;
+    margin-bottom: 10px;
+    height: 45px;
+    margin-left: 23%;
+}
+#lastname{
+    width: 409px;
+    margin-bottom: 10px;
+    height: 45px; 
+    margin-left: 23%;
+}
+#zipcode{
+    width: 409px;
+    margin-bottom: 10px;
+    height: 45px;    
+    margin-left: 23%;
+}
+#email{
+    width: 409px;
+    margin-bottom: 10px;
+    height: 45px;  
+    margin-left: 23%;
+}
+#username{
+    width: 409px;
+    margin-bottom: 10px;
+    height: 45px;   
+    margin-left: 23%;
+}
+#password{
+    width: 409px;
+    margin-bottom: 10px;
+    height: 45px; 
+    margin-left: 23%;
+}
+#conformpassword{
+    
+    width: 409px;
+    margin-bottom: 10px;
+    height: 45px; 
+    margin-left: 23%;
+}
+#register{
+    width: 409px;
+    margin-bottom: 10px;
+    height: 45px; 
+   border: 2px solid yellow;
+   background: yellow;
+   margin-left: 23%;
+}
+.Login>h5{
+    margin-left: 29%;
+    width: 41%;
+    font-size: 17px;
+}
+.Login>h1{
+    position: relative;
+    top: 20px;
+    left: 39%;
+}
+.Login{
+    background: grey;
+}
